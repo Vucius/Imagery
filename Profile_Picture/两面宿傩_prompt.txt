@@ -1,0 +1,114 @@
+{
+  "BasicInfo": {
+    "name": "A powerful cursed spirit known as the King of Curses",
+    "aliases": ["King of Curses"],
+    "originType": "Inspired by an ancient sorcerer turned cursed entity.",
+    "eraBackground": "Inspired by Heian era legends.",
+    "designNotes": "Description emphasizes a refined human male skeletal structure as the base, with demonic enhancements layered on top. Proportions and features are tuned to maintain a distinctly humanoid yet intimidating male frame, avoiding overly bulky or generic monster archetypes."
+  },
+  "OverallImpression": {
+    "aura": "Oppressive and cruel, radiating absolute dominance while retaining a fundamentally humanoid and masculine silhouette.",
+    "visualConcept": "A demonic overlord built on a precise human male foundation: sharp facial structure, balanced muscular distribution, and elongated yet proportional limbs, augmented by extra eyes, secondary mouth, and curse markings.",
+    "presence": "Every stance and expression conveys predatory confidence and aristocratic menace, never devolving into mindless brutishness."
+  },
+  "PhysiqueAndHeight": {
+    "VesselForm": {
+      "height": "Approximately 170–175 cm (medium-to-tall for an athletic young adult male).",
+      "bodyType": "Lean, highly defined athletic build based on a refined human male skeleton: moderately broad shoulders, narrow waist, and clean V-taper without excessive bulk.",
+      "postureTraits": [
+        "Upright with slight forward lean, exuding readiness and superiority.",
+        "Movements are precise, explosive, and controlled."
+      ]
+    },
+    "TrueBody": {
+      "height": "Approximately 190–200 cm or taller, deliberately imposing yet retaining elegant human proportions rather than grotesque exaggeration.",
+      "overallBuild": "Tall, powerfully muscular male frame with sharp muscle separation and low body fat; musculature is dense and functional, not cartoonishly overdeveloped.",
+      "fourArmsAndEyes": "Four arms and four eyes integrated seamlessly into the human male skeletal base, extending reach while preserving balanced proportions.",
+      "torsoFeature": "Large horizontal secondary mouth on the abdomen, positioned to emphasize the underlying human abdominal muscle structure."
+    },
+    "ProportionsAndFrame": {
+      "skeletalBase": "Standard human male skeleton with refined proportions: longer torso relative to legs, moderately wide clavicles, and narrow pelvic structure for a classic masculine V-shape.",
+      "shoulderWidth": "Broad but elegantly proportioned shoulders (approximately 1.6–1.8 head widths), avoiding extreme width that would make the figure appear squat or monstrous.",
+      "limbProportions": "Arms slightly longer than average human ratio for enhanced reach; legs long and powerfully built, supporting both speed and explosive force.",
+      "muscleDistribution": "Even, sharp definition across pectorals, serratus, obliques, and rectus abdominis; arms show clear biceps, triceps, and forearm separation; legs emphasize quadriceps and calves without disproportionate hypertrophy."
+    }
+  },
+  "HeadAndFacialFeatures": {
+    "headAndFaceShape": {
+      "skullShape": "Refined human male skull with high cheekbones, pronounced jawline, and moderately narrow temples.",
+      "faceShape": "Sharp inverted-triangle / elongated oval face with clean, angular contours and a strong chin—distinctly aristocratic and predatory rather than rounded or brutish."
+    },
+    "eyes": {
+      "countAndLayout": "Four eyes: two primary in standard positions, two smaller ones positioned just below the primaries.",
+      "shape": "Narrow, almond-shaped with slight upward tilt at the outer corners, conveying constant mockery and menace.",
+      "irisColor": "Intense red tones.",
+      "expression": "Cold, amused sadism; rarely neutral without underlying threat."
+    },
+    "browsAndForehead": {
+      "browShape": "Thin, sharply arched eyebrows angled upward to reinforce arrogance.",
+      "foreheadMarks": "Pair of symmetrical black bands or segmented lines across the forehead, extending downward to frame the primary eyes."
+    },
+    "noseAndMouth_Face": {
+      "noseShape": "Straight, high-bridged with refined tip.",
+      "mouthShape": "Medium-width lips, often curled into a thin, contemptuous smirk revealing sharp teeth."
+    },
+    "abdominalMouth": {
+      "position": "Centered horizontally across the upper abdomen, aligned with the underlying rectus abdominis.",
+      "shape": "Large, elongated mouth with jagged teeth, opening to reveal a grotesque interior."
+    }
+  },
+  "HairAndStyle": {
+    "hairColor": "Light pink with subtle reddish undertones.",
+    "hairLength": "Short overall; top slightly longer and spiked upward in uneven, jagged strands.",
+    "structure": [
+      "Front bangs short and choppy, framing the forehead markings.",
+      "Sides and back closely cropped for a sharp, battle-ready silhouette."
+    ],
+    "texture": "Straight, slightly rigid, naturally standing in spikes."
+  },
+  "SkinAndMarkings": {
+    "skinTone": "Pale to light with subtle warm undertones under neutral lighting.",
+    "markingColor": "Jet black, high-contrast lines.",
+    "markingDistribution": [
+      "Face: Two segmented bands across forehead, continuing as wrist-like rings around primary eyes and extending to temples; additional short lines on nose bridge and cheeks.",
+      "Torso: Continuous curved lines following pectoral and abdominal contours; segmented bands around shoulders and waist.",
+      "Arms: Parallel lines running along biceps and forearms, with ring patterns at wrists and elbows.",
+      "Legs: Similar flowing lines along thighs and calves."
+    ],
+    "markingStyle": "Precise, tattoo-like bands and sigils that accentuate underlying human muscle anatomy rather than obscure it.",
+    "markingDensityNote": "Markings are bold and relatively few, avoiding tiny, cluttered glyphs that would visually overcrowd the design."
+  },
+  "LimbsAndHands": {
+    "armCount": {
+      "vesselForm": "Two arms, maintaining standard human proportions.",
+      "trueForm": "Four arms arranged in two symmetrical pairs, upper pair slightly higher on the torso."
+    },
+    "handsAndFingers": {
+      "palmSize": "Proportionally large but elegant, with long, dexterous fingers suited to both power and precision.",
+      "nails": "Short, black or dark-toned."
+    },
+    "legsAndFeet": {
+      "legShape": "Long, muscular legs with pronounced quadriceps, hamstrings, and calf definition; proportions favor agility alongside raw power."
+    }
+  },
+  "ClothingAndAccessories": {
+    "commonOutfits": [
+      "Light, open kimono-style upper robe exposing torso markings and muscle definition.",
+      "Loose lower garments or wraps allowing unrestricted leg movement."
+    ],
+    "colorPalette": "Primarily white and black with minimal dark accents.",
+    "accessories": "Simple waist sash or belt; emphasis remains on bare skin, markings, and physical form.",
+    "designConstraints": "No armor, capes, or heavy jewelry; the outfit should feel ritualistic and streamlined rather than knight-like, sci-fi, or overly ornate."
+  },
+  "ExpressionsAndAura": {
+    "typicalExpressions": [
+      "Condemning smirk with exposed teeth.",
+      "Amused, predatory grin.",
+      "Cold, superior neutrality."
+    ],
+    "auraDescription": [
+      "Constant sense of overwhelming predatory superiority.",
+      "In combat, aggressive poses highlight extra limbs, markings, and sharp human-derived musculature."
+    ]
+  }
+}
